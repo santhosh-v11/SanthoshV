@@ -11,7 +11,7 @@ This repository contains solutions to the four programming problems provided in 
 2. **Problem 2**: odd numbers.
    - File: `Program-2.py`
    - Language: Python
-   - 
+
 3. **Problem 3**: odd numbers to odd input and for even print previous add values.
    - File: `Program-3.py`
    - Language: Python
